@@ -1,0 +1,18 @@
+MORLOT is © 2023 University of Luxembourg
+and is distributed under the Apache 2.0 license.
+
+Authors:
+  - Fitash UL HAQ (fitash.ulhaq@uni.lu)
+  - Donghwan Shin (d.shin@sheffield.ac.uk)
+  - Lionel Briand (lionel.briand@uni.lu)
+
+Paper:
+  - "Many-Objective Reinforcement Learning for Online Testing of DNN-Enabled Systems", ICSE 2023
+
+MORLOT includes the following components:
+  - Binaries of CARLA licensed under MIT license
+  - Transfuser licensed under MIT license
+
+Transfuser licensed under MIT (code under implementation/transfuser)
+
+
