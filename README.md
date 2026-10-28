@@ -1,5 +1,7 @@
 # Replication Package for "Many-Objective Reinforcement Learning for Online Testing of DNN-Enabled Systems"
 
+> **Note:** This repository is an archived research artifact. Dependencies are intentionally pinned to the versions used in the paper; known vulnerabilities in these versions are not patched. Run it in an isolated environment (e.g., a container or venv) and do not expose it as a service.
+
 This repository contains the replication package of the paper "Many-Objective Reinforcement Learning for Online Testing of DNN-Enabled Systems"
 
 (NOTE: this markdown file is made using [atom](https://atom.io); if you do not have a proper markdown viewer, you can use [this online viewer](https://dillinger.io))
